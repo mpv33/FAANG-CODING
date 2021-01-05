@@ -1,4 +1,4 @@
-
+# Q: https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1/?track=md-arrays&batchId=144
 
 # method -1 :  n**2
 
