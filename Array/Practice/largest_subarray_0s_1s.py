@@ -1,6 +1,7 @@
 # https://practice.geeksforgeeks.org/problems/largest-subarray-of-0s-and-1s/1/?track=md-arrays&batchId=144
 
 # method-1: O(n**2)
+# first method 
 def maxLen(arr, N):
     maxl=-1
     sum=0
@@ -16,7 +17,7 @@ def maxLen(arr, N):
 ans=maxLen([1,0,1,0],4)
 print(ans)  
 
-# method-2 : O(n)
+# method-2 : O(n)......using hashmap
 
 def maxLen(arr, n): 
 	hash_map = {} 
